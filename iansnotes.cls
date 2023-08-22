@@ -6,6 +6,7 @@
 
 % Change date style.
 \usepackage[UKenglish]{isodate}
+\cleanlookdateon
 % Palatino.
 \usepackage{newpxtext}
 % Helvetica.
